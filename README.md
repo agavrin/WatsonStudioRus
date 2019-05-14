@@ -1,7 +1,6 @@
 # Работа в Watson Studio
 ## Первоначальная настройка
 1. Создайте аккаунт в облаке IBM
-2.
 
 ## Загрузка notebooks
 1. **Watson OpenScale and Watson ML Engine**
