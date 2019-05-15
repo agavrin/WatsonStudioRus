@@ -11,20 +11,19 @@
     _Загрузка тестовых данных оценки кредитных рисков и использование Watson AI OpenScale для оценки работы модели_
 
     **URL**:
-    `https://raw.githubusercontent.com/agavrin/WatsonStudioRus/master/notebooks/Watson%20OpenScale%20and%20Watson%20ML%20Engine.ipynb`
-
+    `https://ibm.biz/BdzZ3i`
 
 
 2. **Keras-Handwritten-Deploy**
 
     _Обучение модели распознавания рукописных цифр_
 
-    **URL**
-    `https://raw.githubusercontent.com/agavrin/WatsonStudioRus/master/notebooks/Keras-Handwritten-Deploy.ipynb`
+    **URL**:
+    `https://ibm.biz/BdzZ3s`
 
 3. **Welcome to PixieDust**
 
-    Пример использования библиотеки визуализации PixieDust
+    _Пример использования библиотеки визуализации PixieDust_
 
     **URL**
-    `https://raw.githubusercontent.com/agavrin/WatsonStudioRus/master/notebooks/Keras-Handwritten-Deploy.ipynb`
+    `https://ibm.biz/BdzZ32`
