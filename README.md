@@ -6,11 +6,11 @@
   - **Watson Machine Learning** (развертывание моделей ИИ в облаке)
   - **Watson Knowledge Catalog** (каталог моделей для совместного использования)
 
-## Лабораторная работа 1 - Watson Assistant
-[Инструкции к лабораторной работе 1](./labs/lab01/README.md)
+## Лабораторная работа 1 - Watson Assistant - чат-бот платформа
+[Инструкции к лабораторной работе 1](https://github.com/agavrin/WatsonAssistantRus)
 
-## Лабораторная работа 1 - Начало работы с Watson Studio
-[Инструкции к лабораторной работе 1](./WS-Lab1.md)
+## Лабораторная работа 2 - Начало работы с Watson Studio
+[Инструкции к лабораторной работе 2](./labs/lab01/README.md)
 
 
 ## Загрузка notebooks
