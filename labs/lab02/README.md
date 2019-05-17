@@ -6,7 +6,9 @@
    * [1.3.	Как создать и обучить модель с помощью Jupyter Notebook](#13как-создать-и-обучить-модель-с-помощью-jupyter-notebook)
 
 ## 1.1.	Как запустить и начать использовать Watson Studio
+
 1.1.1. Войти в учетную запись IBM Cloud – https://cloud.ibm.com
+
 1.1.2.	В Dashboard выбрать **Cloud Foundry Services** либо **Services** и, затем, **Watson Studio**
 
 <img src="./images/lab1-11-dash.png" width="600" alt="Dashboard"/>
