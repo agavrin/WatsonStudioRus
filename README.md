@@ -10,7 +10,7 @@
 [Инструкции к лабораторной работе 1](https://github.com/agavrin/WatsonAssistantRus)
 
 ## Лабораторная работа 2 - Начало работы с Watson Studio
-[Инструкции к лабораторной работе 2](./labs/lab01/README.md)
+[Инструкции к лабораторной работе 2](./labs/lab02/README.md)
 
 
 ## Загрузка notebooks
