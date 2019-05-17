@@ -13,7 +13,7 @@
 [Инструкции к лабораторной работе 2](./labs/lab02/README.md)
 
 
-## Загрузка notebooks
+## Примеры notebooks
 1. **Watson OpenScale and Watson ML Engine**
 
     _Загрузка тестовых данных оценки кредитных рисков и использование Watson AI OpenScale для оценки работы модели_
